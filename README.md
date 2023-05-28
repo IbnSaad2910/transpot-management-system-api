@@ -3,10 +3,8 @@ API backend for Transport Management System
 
 # Creating a new docket
 
-Request:
 ![q1_request](https://github.com/IbnSaad2910/transpot-management-system-api/assets/52091963/ad382b66-2f5e-4978-8cba-7f4cdc093563)
 
-Response:
 ![q1_response](https://github.com/IbnSaad2910/transpot-management-system-api/assets/52091963/e63d4bf0-429b-4b6b-a7bb-a92ecc89ce54)
 
 # Fetching a docket based on the order number
